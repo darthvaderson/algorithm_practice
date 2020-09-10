@@ -24,7 +24,7 @@ class Pos{
 }
 
 
-public class Problem03 {
+public class Problem04 {
 	
 	static int space[][][][];
 	static boolean visit[][][][];
